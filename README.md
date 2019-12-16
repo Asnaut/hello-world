@@ -1,3 +1,9 @@
 # hello-world
 helloWorld in different PL
-YuhangLiu
+Include:
+1. JavaScript
+2. Python
+3. C
+4. C++
+   
+Author:Yuhang Liu
